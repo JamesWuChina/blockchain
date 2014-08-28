@@ -25,6 +25,7 @@ func TestMerkellHash(t *testing.T) {
 	}
 }
 
+//TODO
 //TODO: Write block validation and marshalling tests [Issue: https://github.com/izqui/blockchain/issues/2]
 
 /*
